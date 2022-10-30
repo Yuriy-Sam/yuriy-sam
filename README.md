@@ -1,5 +1,5 @@
 
-<h1 height="50" align="left"> Hi, I'm Yuriy <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" width="60" height="60"alt="smile"></h1>
+<h1 height="50" align="left"> Hi, I'm Yuriy <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" width="40" height="40"alt="smile"></h1>
 <h3 align="left">Frontend developer from Ukraine💙💛</h3>
 
 
