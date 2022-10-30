@@ -33,6 +33,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a style="display: block; margin-right: 10px;" href="https://twitter.com/sam_yuriy" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_yuriy" height="40" width="60" /></a>
-<a style="display: block; margin-right: 10px;" href="www.linkedin.com/in/yuriy-samoilenko-02766423b/" target="blank"><img   align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yuriy-samoilenko-02766423b" height="40" width="60" /></a> 
+<a style="display: block; margin-right: 10px;" href="https://www.linkedin.com/in/yuriy-samoilenko-02766423b/" target="blank"><img   align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yuriy-samoilenko-02766423b" height="40" width="60" /></a> 
 <a style="display: block; margin-right: 10px;" href="https://fb.com/https://www.facebook.com/profile.php?id=100009922089343" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009922089343" height="40" width="60" /></a>   
 </p>    
