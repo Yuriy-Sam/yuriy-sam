@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Yuriy 👋</h1>
-<h3 align="center">Frontend developer from Ukraine💙💛</h3>
+<h1 height="50" align="left"> Hi, I'm Yuriy <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" width="60" height="60"alt="smile"></h1>
+<h3 align="left">Frontend developer from Ukraine💙💛</h3>
 
 
 - 🔭 I’m currently working on [Funny webshop](https://github.com/Yuriy-Sam/Funny-Shop)
