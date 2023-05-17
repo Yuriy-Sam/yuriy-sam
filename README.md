@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Home Kitchen](https://github.com/Yuriy-Sam/home-kitchen-react)
 
-- 🌱 I’m currently learning **React, Redux, TypeScript**
+- 🌱 I’m currently learning **React, TypeScript, Next.js**
 
-- 📫 How to reach me **yuriy.sam2002@gmail.com**
+- 📫 How to reach me **yuriy.samoilenkoff@gmail.com**
 
 
 
