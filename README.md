@@ -3,7 +3,7 @@
 <h3 align="left">Frontend developer from Ukraine💙💛</h3>
 
 
-- 🔭 I’m currently working on [Funny webshop](https://github.com/Yuriy-Sam/Funny-Shop)
+- 🔭 I’m currently working on [Home Kitchen](https://github.com/Yuriy-Sam/home-kitchen-react)
 
 - 🌱 I’m currently learning **React, Redux, TypeScript**
 
