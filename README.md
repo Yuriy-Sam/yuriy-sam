@@ -76,6 +76,6 @@
 <p align="left">
 <!-- <a style="display: block; margin-right: 10px;" href="https://twitter.com/sam_yuriy" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_yuriy" height="40" width="60" /></a> -->
 <a href="mailto:yuriy.samoilenkoff@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a> 
-<a href="https://www.linkedin.com/in/yurii-samoilenko/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> 
+<a href="https://www.linkedin.com/in/yuriy-samoilenko/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> 
 
 </p>    
