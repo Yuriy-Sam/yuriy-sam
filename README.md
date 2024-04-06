@@ -10,7 +10,7 @@
 - 📫 How to reach me **yuriy.samoilenkoff@gmail.com**
 
 
-<h2 align="left">Frontend skills:</h2>
+<h3 align="left">Frontend skills:</h3>
 <p align="left"> 
     <a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html" alt="html"/></a> 
     <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" alt="css"/></a> 
@@ -34,7 +34,7 @@
     <a href="https://wordpress.com/" target="blank"><img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"/></a> 
 </p>
 
-<h2 align="left">Backend skills:</h2>    
+<h3 align="left">Backend skills:</h3>    
 <p align="left"> 
      <a href="https://nodejs.org/en" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></a> 
      <a href="https://express.ms/" target="blank"><img src="https://skillicons.dev/icons?i=express" alt="express"/></a> 
@@ -79,3 +79,8 @@
 <a href="https://www.linkedin.com/in/yuriy-samoilenko/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a> 
 
 </p>    
+<!-- <h3 align="left">Codewars Stats:</h3> -->
+<div style="height: 200px;" >
+<a href="https://www.codewars.com/users/Yuriy-Sam"><img  width="100%" src="https://github.r2v.ch/codewars?user=Yuriy-Sam&hide_clan=true&theme=gradient_purple_dark_by_level"/></a>
+<a href="https://leetcode.com/Yuriy-Sam/"><img  width="100%" src="https://leetcard.jacoblin.cool/Yuriy-Sam?theme=unicorn"/></a></div>
+
