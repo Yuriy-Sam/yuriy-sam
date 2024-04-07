@@ -80,7 +80,7 @@
 
 </p>    
 <!-- <h3 align="left">Codewars Stats:</h3> -->
-<div style="height: 200px;" >
-<a href="https://www.codewars.com/users/Yuriy-Sam"><img  width="100%" src="https://github.r2v.ch/codewars?user=Yuriy-Sam&hide_clan=true&theme=gradient_purple_dark_by_level"/></a>
-<a href="https://leetcode.com/Yuriy-Sam/"><img  width="100%" src="https://leetcard.jacoblin.cool/Yuriy-Sam?theme=unicorn"/></a></div>
+<div  >
+<a style="display: inline;" href="https://www.codewars.com/users/Yuriy-Sam"><img  width="45%" src="https://github.r2v.ch/codewars?user=Yuriy-Sam&theme=gradient_purple_dark_by_level"/></a>
+<a style="display: inline;" href="https://leetcode.com/Yuriy-Sam/"><img width="45%" src="https://leetcard.jacoblin.cool/Yuriy-Sam?theme=unicorn"/></a></div>
 
